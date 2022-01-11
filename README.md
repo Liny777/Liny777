@@ -1,4 +1,4 @@
-###  👋 &nbsp;Hi, Welcome to Liny's  &nbsp; &nbsp;![](https://img.shields.io/badge/-Github-lightgrey?style=social&logo=github)
+###  Hi, Welcome to Liny's Github 👋
 
 <!--
 **Liny777/Liny777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,5 +26,6 @@ Here are some ideas to get you started:
  ![](https://img.shields.io/badge/北京邮电大学-物联网工程-blue)  
  ![](https://img.shields.io/badge/香港中文大学-信息工程-blueviolet)  
  ### Language
- ![](https://img.shields.io/badge/编程语言-Javascript-ff69b4?style=for-the-badge&logo=javascript)
+ ![](https://img.shields.io/badge/编程语言-Javascript-ff69b4?style=for-the-badge&logo=javascript)  
+ ![](https://img.shields.io/badge/-Github-lightgrey?style=social&logo=github)
  
