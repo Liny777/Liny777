@@ -22,3 +22,4 @@ Here are some ideas to get you started:
  📬 My Email: linyouguang97@gmail.com
  
  ![](https://img.shields.io/badge/北京邮电大学-物联网工程-blue)
+ ![](https://img.shields.io/badge/香港中文大学-信息工程-blueviolet)
