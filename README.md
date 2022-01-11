@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ 📑 I’m currently pursuing for a Master degree in The Chinese University of Hong Kong (CUHK)  
+ 🖥 My blog 👉 https://blog.csdn.net/Liny77/article/details/122419167?spm=1001.2014.3001.5501  
+ 🚴 My website 👉 https://youguanglin.netlify.app  
+ 📬 My Email: linyouguang97@gmail.com
