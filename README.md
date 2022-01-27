@@ -22,8 +22,6 @@ Here are some ideas to get you started:
  💬 My own blog 👉 linyouguang.com  
  📬 My Email: linyouguang97@gmail.com
  
- ![alt 属性文本](https://github.com/Liny777/Liny777/raw/master/1.png)
- 
  ### Education
  ![](https://img.shields.io/badge/北京邮电大学-物联网工程-blue)  
  ![](https://img.shields.io/badge/香港中文大学-信息工程-blueviolet)  
@@ -32,3 +30,5 @@ Here are some ideas to get you started:
  ![](https://img.shields.io/badge/-Github-lightgrey?style=social&logo=github)
  
 <!--  🚴 My website 👉 https://youguanglin.netlify.app   -->
+
+![alt 属性文本](https://github.com/Liny777/Liny777/raw/master/2.png)
