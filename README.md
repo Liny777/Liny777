@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
  📑 I’m currently pursuing for a Master degree in The Chinese University of Hong Kong (CUHK)  
  🖥 My blog 👉 https://blog.csdn.net/Liny77/article  
- 💬 My own blog 👉 linyouguang.com  
+ 💬 My own blog 👉 www.linyouguang.com  
  📬 My Email: linyouguang97@gmail.com
  
  ### Education
