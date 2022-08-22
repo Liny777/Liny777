@@ -51,9 +51,9 @@ Here are some ideas to get you started:
 
 ## Contact 
 <div> 
-My blog 👉 https://blog.csdn.net/Liny77/article  
-My own blog 👉 www.linyouguang.com  
-My Email: linyouguang97@gmail.com
+<p> My blog 👉 <a>https://blog.csdn.net/Liny77/article</a> </p>
+<p>My own blog 👉 <a> www.linyouguang.com</a>  </p>
+<p>My Email: linyouguang97@gmail.com</p>
 </br>
 </br>
  
