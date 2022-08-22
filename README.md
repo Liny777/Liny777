@@ -14,8 +14,10 @@
 
  <div>
   <a href="https://github.com/liny777">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liny777&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=liny777&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liny777&langs_count=8&show_icons=true&locale=en&layout=compact" alt="Liny777" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Liny777&show_icons=true&locale=en" alt="Liny777" /></p>
+
 </div>
  
  </br>
