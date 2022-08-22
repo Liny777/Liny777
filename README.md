@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 查看表情包网址 https://www.unicode.org/emoji/charts/full-emoji-list.html#1f600
 卡牌生成网址：https://shields.io
 -->
-
+<!-- 
  📑 I’m currently pursuing for a Master degree in The Chinese University of Hong Kong (CUHK)  
  🖥 My blog 👉 https://blog.csdn.net/Liny77/article  
  💬 My own blog 👉 www.linyouguang.com  
- 📬 My Email: linyouguang97@gmail.com
+ 📬 My Email: linyouguang97@gmail.com -->
  
- ## Hi, I am Liny777! 
+<!--  ## Hi, I am Liny777!  -->
 </br>
 
  <div>
@@ -50,10 +50,10 @@ Here are some ideas to get you started:
 </br>
 
 ## Contact 
+
 My blog 👉 https://blog.csdn.net/Liny77/article  
 My own blog 👉 www.linyouguang.com  
 My Email: linyouguang97@gmail.com
- </br>
  <div> 
 </br>
  
