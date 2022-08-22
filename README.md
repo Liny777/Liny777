@@ -3,8 +3,6 @@
 <!--
 **Liny777/Liny777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![alt 属性文本](https://github.com/Liny777/Liny777/raw/master/2.png)
-
 
 <!--  📑 I’m currently pursuing for a Master degree in The Chinese University of Hong Kong (CUHK)   -->
  🖥 My blog 👉 https://blog.csdn.net/Liny77/article  
@@ -55,4 +53,4 @@
  
 <!--  🚴 My website 👉 https://youguanglin.netlify.app   -->
 
-<!-- ![alt 属性文本](https://github.com/Liny777/Liny777/raw/master/2.png) -->
+![alt 属性文本](https://github.com/Liny777/Liny777/raw/master/2.png)
