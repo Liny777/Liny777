@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   <img height="40" align="center" alt="Erica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="Erica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
+<!--   <img align="right" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif"> -->
 </div>
   
 </br>
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <p>My Email: linyouguang97@gmail.com</p>
 </br> -->
 <div> 
-  My blog 👉<a href="https://blog.csdn.net/Liny77/article" target="_blank">https://blog.csdn.net/Liny77/article</a> </br>
+ <p>My blog</p> 👉<a href="https://blog.csdn.net/Liny77/article" target="_blank">https://blog.csdn.net/Liny77/article</a> </br>
   My own blog 👉<a href="www.linyouguang.com" target="_blank">www.linyouguang.com</a></br>
   <p>My Email: linyouguang97@gmail.com</p>
  </br>
