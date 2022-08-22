@@ -18,7 +18,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Liny777&show_icons=true&locale=en" alt="Liny777" /></p>
 <!-- <p><img align="left" src="https://github-profile-trophy.vercel.app/?username=Liny777" alt="Liny777" /></p> -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Liny777)](https://github.com/Liny777/github-profile-trophy) -->
-
+![trophy](https://github-profile-trophy.vercel.app/?username=Liny777)](https://github.com/Liny777/github-profile-trophy)
 </div>
  
  </br>
