@@ -50,11 +50,17 @@ Here are some ideas to get you started:
 </br>
 
 ## Contact 
-<div> 
+<!-- <div> 
 <p> My blog 👉 <a>https://blog.csdn.net/Liny77/article</a> </p>
 <p>My own blog 👉 <a> www.linyouguang.com</a>  </p>
 <p>My Email: linyouguang97@gmail.com</p>
-</br>
+</br> -->
+<div> 
+  <a href="https://blog.csdn.net/Liny77/article" target="_blank">https://blog.csdn.net/Liny77/article</a> 
+  <a href="https://twitter.com/ericagrundy" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/ericagrundy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto: ericamalakian@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </br>
 </br>
  
   ![Snake animation](https://github.com/liny777/liny777/blob/output/github-contribution-grid-snake.svg)
