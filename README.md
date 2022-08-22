@@ -3,24 +3,13 @@
 <!--
 **Liny777/Liny777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![alt 属性文本](https://github.com/Liny777/Liny777/raw/master/2.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-查看表情包网址 https://www.unicode.org/emoji/charts/full-emoji-list.html#1f600
-卡牌生成网址：https://shields.io
--->
-<!-- 
- 📑 I’m currently pursuing for a Master degree in The Chinese University of Hong Kong (CUHK)  
+
+<!--  📑 I’m currently pursuing for a Master degree in The Chinese University of Hong Kong (CUHK)   -->
  🖥 My blog 👉 https://blog.csdn.net/Liny77/article  
  💬 My own blog 👉 www.linyouguang.com  
- 📬 My Email: linyouguang97@gmail.com -->
+ 📬 My Email: linyouguang97@gmail.com
  
 <!--  ## Hi, I am Liny777!  -->
 </br>
@@ -31,10 +20,14 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=liny777&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
  
+ </br>
+ 
+  ![Snake animation](https://github.com/liny777/liny777/blob/output/github-contribution-grid-snake.svg)
+  
  ## Skills
 <div style="display: inline_block"><br>
-  <img height="40" align="center" alt="Erica-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!--   <img height="40" align="center" alt="Erica-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
   <img height="40" align="center" alt="Erica-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="Erica-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -49,20 +42,6 @@ Here are some ideas to get you started:
   
 </br>
 
-## Contact 
-<!-- <div> 
-<p> My blog 👉 <a>https://blog.csdn.net/Liny77/article</a> </p>
-<p>My own blog 👉 <a> www.linyouguang.com</a>  </p>
-<p>My Email: linyouguang97@gmail.com</p>
-</br> -->
-<div> 
- <p>My blog</p> 👉<a href="https://blog.csdn.net/Liny77/article" target="_blank">https://blog.csdn.net/Liny77/article</a> </br>
-  My own blog 👉<a href="www.linyouguang.com" target="_blank">www.linyouguang.com</a></br>
-  <p>My Email: linyouguang97@gmail.com</p>
- </br>
-</br>
- 
-  ![Snake animation](https://github.com/liny777/liny777/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
@@ -76,4 +55,4 @@ Here are some ideas to get you started:
  
 <!--  🚴 My website 👉 https://youguanglin.netlify.app   -->
 
-![alt 属性文本](https://github.com/Liny777/Liny777/raw/master/2.png)
+<!-- ![alt 属性文本](https://github.com/Liny777/Liny777/raw/master/2.png) -->
