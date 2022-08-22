@@ -50,11 +50,11 @@ Here are some ideas to get you started:
 </br>
 
 ## Contact 
-
+<div> 
 My blog 👉 https://blog.csdn.net/Liny77/article  
 My own blog 👉 www.linyouguang.com  
 My Email: linyouguang97@gmail.com
- <div> 
+</br>
 </br>
  
   ![Snake animation](https://github.com/liny777/liny777/blob/output/github-contribution-grid-snake.svg)
