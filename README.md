@@ -1,5 +1,7 @@
 ###  Hi, Welcome to Liny's Github 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Liny777&label=Profile%20Views&color=0e75b6&style=flat" alt="Liny777" /> </p>
+
 <!--
 **Liny777/Liny777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
