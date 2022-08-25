@@ -9,7 +9,7 @@
 
 <!--  📑 I’m currently pursuing for a Master degree in The Chinese University of Hong Kong (CUHK)   -->
  🖥 My blog 👉 https://blog.csdn.net/Liny77/article  
- 💬 My own blog 👉 blog.linyouguang.com  
+ 💬 My own blog 👉 https://blog.linyouguang.com  
  📬 My Email: linyouguang97@gmail.com
  </br>
  🖥 Bytedance Project: Monitor Platfrom 👉 www.linyouguang.com:8080/login
