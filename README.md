@@ -50,14 +50,15 @@
  
 </div>
 
-
+<!-- 
  ### Education
  ![](https://img.shields.io/badge/北京邮电大学-物联网工程-blue)  
  ![](https://img.shields.io/badge/香港中文大学-信息工程-blueviolet)  
  ### Language
  ![](https://img.shields.io/badge/编程语言-Javascript-ff69b4?style=for-the-badge&logo=javascript)  
  ![](https://img.shields.io/badge/-Github-lightgrey?style=social&logo=github)
- 
+  -->
 <!--  🚴 My website 👉 https://youguanglin.netlify.app   -->
-
+<!-- 
 ![alt 属性文本](https://github.com/Liny777/Liny777/raw/master/2.png)
+-->
