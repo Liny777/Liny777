@@ -1,4 +1,4 @@
-###  Hi, Welcome to Liny's Github 👋
+<!-- ###  Hi, Welcome to Liny's Github 👋 -->
 
 <a href="https://sm.ms/image/LYj9mnziMFcJUlQ" target="_blank"><img src="https://s2.loli.net/2022/08/22/LYj9mnziMFcJUlQ.gif" ></a>
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Liny777&label=Profile%20Views&color=0e75b6&style=flat" alt="Liny777" height="200" width="100%"/> </p> -->
