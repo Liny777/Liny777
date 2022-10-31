@@ -16,7 +16,7 @@
 <!--  ## Hi, I am Liny777!  -->
 </br>
 
- <div>
+<!--  <div>
   <a href="https://github.com/liny777">
    <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Liny777&show_icons=true&locale=en" alt="Liny777" /></p>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liny777&langs_count=8&show_icons=true&locale=en&layout=compact" alt="Liny777" /></p>
@@ -24,7 +24,7 @@
 <p><img align="left" src="https://github-profile-trophy.vercel.app/?username=Liny777" alt="Liny777" /></p>
 
 </div>
- 
+  -->
  </br>
  
   ![Snake animation](https://github.com/liny777/liny777/blob/output/github-contribution-grid-snake.svg)
