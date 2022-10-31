@@ -1,4 +1,4 @@
-###  Hi, Welcome to Liny's Github 👋
+<!-- ###  Hi, Welcome to Liny's Github 👋 -->
 
 <a href="https://sm.ms/image/LYj9mnziMFcJUlQ" target="_blank"><img src="https://s2.loli.net/2022/08/22/LYj9mnziMFcJUlQ.gif" ></a> 
  <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Liny777&label=Profile%20Views&color=0e75b6&style=flat" alt="Liny777" height="200" width="100%"/> </p> -->
@@ -29,10 +29,10 @@
  
   ![Snake animation](https://github.com/liny777/liny777/blob/output/github-contribution-grid-snake.svg)
   
-<!--  ## Skills
+<!-- ## Skills
 <div style="display: inline_block"><br>
-<!--   <img height="40" align="center" alt="Erica-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+<img height="40" align="center" alt="Erica-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="Erica-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="Erica-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -42,12 +42,9 @@
   <img height="40" align="center" alt="Erica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="Erica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<!--   <img align="right" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif"> -->
-</div> -->
+ <img align="right" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif"> 
+</div>  -->
   
-<!-- </br> -->
-
- 
 </div>
 
 <!-- 
